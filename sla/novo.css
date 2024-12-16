@@ -1,0 +1,20 @@
+body{
+    margin: 0%;
+}
+#titulo {
+    color: #0e6706;
+    background-color: #000; /* Fundo preto */
+    background-image: url(img/ciadocorpo.png);
+    background-repeat: no-repeat;
+    background-size: 10em; /* Ajusta a imagem para cobrir o elemento */
+    background-position: left; /* Centraliza a imagem */
+    min-height: 90px; /* Define uma altura mínima */
+}
+.menu {
+    width: 300px;
+    height: 40px;
+    size: 50em;
+}
+a{
+    color: aliceblue ;
+}
